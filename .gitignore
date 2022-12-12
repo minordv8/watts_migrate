@@ -4,3 +4,7 @@
 #Local config files
 configuration-yamls/
 migrate_upgrade-yamls/
+
+# Ignore .DS_Store
+.DS_Store
+.DS_Store?
